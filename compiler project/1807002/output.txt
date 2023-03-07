@@ -1,0 +1,82 @@
+comment
+comment
+library added
+Function declared with return type : INTERGER
+Parameter T-Number: x
+Parameter T-symbol: y
+Parameter T-decimal: z
+
+value of expression: 3
+Function name : xyz
+
+valid declaration
+Array declaration Successful
+0 
+
+value of expression: 0
+
+value of expression: 7
+
+value of expression: 9
+
+value of expression: 14
+
+value of expression: 55
+
+division by zero error	
+value of expression: 0
+
+value of expression: 14
+
+True conditioin. IF executes : 14
+inc: 11
+
+value of expression: 11
+
+value of expression: 4
+
+True conditioin. IF executes : 4
+
+value of expression: 13
+
+False condition. Else executes 23730096
+
+value of expression: 10
+
+value of expression: 20
+
+value of expression: 5
+
+False condition. Else executes 5
+
+value of expression: 17
+
+True conditioin. IF executes : 5
+For Loop :
+Iteration no : 2 and expression or statement value : 6
+Iteration no : 3 and expression or statement value : 6
+Iteration no : 4 and expression or statement value : 6
+Iteration no : 5 and expression or statement value : 6
+Unknown Character.
+
+While LOOP:
+Iteration no : 0 and expression or statement value : 6
+Iteration no : 1 and expression or statement value : 6
+Iteration no : 2 and expression or statement value : 6
+Iteration no : 3 and expression or statement value : 6
+Iteration no : 4 and expression or statement value : 6
+
+Unknown Character.
+
+While LOOP:
+Iteration no : 0 and expression or statement value : 18
+Iteration no : 1 and expression or statement value : 18
+Iteration no : 2 and expression or statement value : 18
+Iteration no : 3 and expression or statement value : 18
+Iteration no : 4 and expression or statement value : 18
+
+
+Result in default Value is :  9
+SWITCH case.
+
+Successful compilation
