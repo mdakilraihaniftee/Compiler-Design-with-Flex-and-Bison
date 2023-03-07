@@ -1,0 +1,135 @@
+comment
+comment
+library added
+Function declared with return type : INTERGER
+Parameter T-Number: x
+Parameter T-symbol: y
+Parameter T-decimal: z
+1 + 2 : 
+
+value of expression: 3
+func save xyz
+0 func output 3
+Function name : xyz
+
+valid declaration
+Array declaration Successful
+Printing table
+0 xyz
+1 aa
+2 bb
+3 cc
+4 dd
+5 array1
+total size of array1 is 10 
+
+value of expression: 6
+xyz Fuction called
+output of fuction : 3
+2 ^ 3 : 
+
+value of expression: 8
+2 AND 3 : 
+
+value of expression: 1
+2 OR 3 : 
+
+value of expression: 1
+1 XOR 2 : 
+
+value of expression: 3
+5 + 2 : 
+
+value of expression: 7
+
+value of expression: 9
+9 + 5 : 
+
+value of expression: 14
+50 - 15 : 
+8 / 2 : 
+4 * 5 : 
+35 + 20 : 
+
+value of expression: 55
+
+division by zero error	
+value of expression: 0
+12 + 2 : 
+
+value of expression: 14
+
+True conditioin. IF executes : 14
+inc: 11
+
+value of expression: 11
+5 + 8 : 
+2 ^ 2 : 
+
+value of expression: 4
+
+True conditioin. IF executes : 4
+12 / 4 : 
+3 * 4 : 
+1 + 12 : 
+
+value of expression: 13
+6 * 2 : 
+7 + 12 : 
+8 / 4 : 
+6 + 2 : 
+
+False condition. Else executes 23468224
+8 + 2 : 
+
+value of expression: 10
+7 + 7 : 
+14 + 6 : 
+
+value of expression: 20
+8 / 4 : 
+3 + 2 : 
+
+value of expression: 5
+
+False condition. Else executes 5
+6 * 3 : 
+18 - 1 : 
+
+value of expression: 17
+
+True conditioin. IF executes : 5
+4 + 2 : 
+For Loop :
+Iteration no : 2 and expression or statement value : 6
+Iteration no : 3 and expression or statement value : 6
+Iteration no : 4 and expression or statement value : 6
+Iteration no : 5 and expression or statement value : 6
+Unknown Character.
+
+4 + 2 : 
+While LOOP:
+Iteration no : 0 and expression or statement value : 6
+Iteration no : 1 and expression or statement value : 6
+Iteration no : 2 and expression or statement value : 6
+Iteration no : 3 and expression or statement value : 6
+Iteration no : 4 and expression or statement value : 6
+
+Unknown Character.
+
+6 * 3 : 
+While LOOP:
+Iteration no : 0 and expression or statement value : 18
+Iteration no : 1 and expression or statement value : 18
+Iteration no : 2 and expression or statement value : 18
+Iteration no : 3 and expression or statement value : 18
+Iteration no : 4 and expression or statement value : 18
+
+4 + 2 : 
+3 + 2 : 
+3 ^ 2 : 
+
+Result in default Value is :  9
+SWITCH case.
+
+Successful compilation
